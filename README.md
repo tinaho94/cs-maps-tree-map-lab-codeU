@@ -68,7 +68,7 @@ n = 2<sup>h</sup> - 1
 
 We can take the log base 2 of both sides:
 
-log<sub>2</sub> ≈ h
+log<sub>2</sub>n ≈ h
 
 Which means that the height of the tree is proportional to `log n`, if the tree is full; that is, if each level contains the maximum number of nodes.
 
